@@ -1,0 +1,33 @@
+<div class="p-5">
+    <div class="mb-4 text-lg font-bold">Subscription data for a streaming service NETFLIX for country
+        {{selectedCountryName}}</div>
+    <div *ngIf="isCountryData" class="flex-col gap-3 ml-3 text-sm">
+
+
+
+        <div> <span class="font-bold">Number of series:</span> {{countryFeeSubscription!.numberOfTVShows}}</div>
+
+
+
+        <div><span class="font-bold">Number of films:</span> {{countryFeeSubscription!.numberOfMovies}}</div>
+
+        <div> <span class="font-bold">Number of films and series:</span> {{countryFeeSubscription!.totalLibrarySize}}
+        </div>
+
+        <div> <span class="font-bold">Cost of the basic package:</span> {{countryFeeSubscription!.costPerMonthBasic}}$
+        </div>
+
+
+        <div><span class="font-bold">Cost of the standard package:</span>
+            {{countryFeeSubscription!.costPerMonthDtandard}}$</div>
+
+
+        <div><span class="font-bold">Premium package cost:</span> {{countryFeeSubscription!.costPerMonthPremium}}$
+        </div>
+    </div>
+
+
+    <div *ngIf="!isCountryData">
+        <div class="font-bold">No subscription data</div>
+    </div>
+</div>

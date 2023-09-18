@@ -1,0 +1,66 @@
+id;Country_Code;Country;Total_Library_Size;Number_of_TV_Shows;Number_of_Movies;Cost_Per_Month_Basic;Cost_Per_Month_Standard;Cost_Per_Month_Premium
+1;ar;Argentina;4760;3154;1606;mar.74;06.mar;wrz.26
+2;au;Australia;6114;4050;2064;lip.84;12.gru;16.39
+3;at;Austria;5640;3779;1861;09.mar;14.67;20.32
+4;be;Belgium;4990;3374;1616;paü.16;15.24;20.32
+5;bo;Bolivia;4991;3155;1836;lip.99;paü.99;13.99
+6;br;Brazil;4972;3162;1810;kwi.61;07.lis;wrz.96
+7;bg;Bulgaria;6797;4819;1978;09.mar;lis.29;13.54
+8;ca;Canada;6239;4311;1928;lip.91;lis.87;15.mar
+9;cl;Chile;4994;3156;1838;07.lip;wrz.91;gru.74
+10;co;Colombia;4991;3156;1835;kwi.31;cze.86;wrz.93
+11;cr;Costa Rica;4988;3152;1836;sie.99;gru.99;15.99
+12;hr;Croatia;2274;1675;599;09.mar;lis.29;13.54
+13;cz;Czechia;7325;5234;2091;sie.83;lis.49;14.15
+14;dk;Denmark;4558;2978;1580;12.0;15.kwi;19.cze
+15;ec;Ecuador;4992;3155;1837;lip.99;paü.99;13.99
+16;ee;Estonia;6456;4486;1970;09.mar;lis.29;13.54
+17;fi;Finland;4045;2638;1407;09.mar;13.54;18.cze
+18;fr;France;5445;3604;1841;paü.16;15.24;20.32
+19;de;Germany;5668;3814;1854;09.mar;14.67;20.32
+20;gi;Gibraltar;6167;4079;2088;09.mar;14.67;20.32
+21;gr;Greece;4772;3344;1428;09.mar;gru.42;15.sie
+22;gt;Guatemala;4767;3154;1613;lip.99;paü.99;13.99
+23;hn;Honduras;4989;3154;1835;lip.99;paü.99;13.99
+24;hk;Hong Kong;4746;2883;1863;08.sie;10.0;lis.93
+25;hu;Hungary;6884;4802;2082;lip.64;paü.71;13.78
+26;is;Iceland;6387;4426;1961;09.mar;14.67;20.32
+27;in;India;5843;3718;2125;lut.64;cze.61;08.cze
+28;id;Indonesia;3887;2449;1438;sie.36;paü.66;gru.96
+29;ie;Ireland;6486;4515;1971;09.mar;14.67;20.32
+30;il;Israel;5713;3650;2063;paü.56;15.maj;19.54
+31;it;Italy;5183;3545;1638;09.mar;14.67;20.32
+32;jp;Japan;5475;3619;1856;sie.73;13.13;17.45
+33;lv;Latvia;6450;4479;1971;09.mar;lis.29;13.54
+34;li;Liechtenstein;3048;1712;1336;gru.88;20.46;26.96
+35;lt;Lithuania;6462;4490;1972;09.mar;lis.29;13.54
+36;my;Malaysia;5952;3565;2387;sie.29;paü.65;13.lut
+37;mx;Mexico;4993;3158;1835;cze.62;paü.43;14.24
+38;md;Moldova;3937;2473;1464;09.mar;lis.29;13.54
+39;mc;Monaco;5804;3806;1998;09.mar;13.54;18.cze
+40;nl;Netherlands;5376;3779;1597;09.mar;13.54;18.cze
+41;nz;New Zealand;6084;4003;2081;08.sie;gru.53;16.94
+42;no;Norway;4528;2955;1573;wrz.94;gru.17;17.75
+43;py;Paraguay;4797;3155;1642;sie.29;lis.49;14.69
+44;pe;Peru;4986;3155;1831;06.lis;sie.56;11.sty
+45;ph;Philippines;6362;4154;2208;lip.35;wrz.14;paü.93
+46;pl;Poland;5109;3512;1597;lip.13;paü.58;14.76
+47;pt;Portugal;5047;3419;1628;09.mar;13.54;18.cze
+48;ro;Romania;5303;3832;1471;09.mar;lis.29;13.54
+49;ru;Russia;5711;3624;2087;sie.13;paü.84;13.56
+50;sm;San Marino;2310;1937;373;09.mar;14.67;20.32
+51;sg;Singapore;6303;4109;2194;wrz.51;gru.81;16.lis
+52;sk;Slovakia;7035;5055;1980;09.mar;lis.29;13.54
+53;za;South Africa;5736;3686;2050;cze.26;10.maj;gru.58
+54;kr;South Korea;5195;3334;1861;08.lip;lis.47;14.45
+55;es;Spain;5229;3536;1693;09.mar;14.67;20.32
+56;se;Sweden;4361;2973;1388;10.wrz;14.lut;19.lip
+57;ch;Switzerland;5506;3654;1852;gru.88;20.46;26.96
+58;tw;Taiwan;5105;3134;1971;wrz.74;11.wrz;14.lip
+59;th;Thailand;4948;2977;1971;sie.34;paü.43;gru.52
+60;tr;Turkey;4639;2930;1709;sty.97;3.0;04.lut
+61;ua;Ukraine;5336;3261;2075;maj.64;sie.46;lis.29
+62;gb;United Kingdom;6643;4551;2092;lip.91;13.lut;18.48
+63;us;United States;5818;3826;1992;sie.99;13.99;17.99
+64;uy;Uruguay;4989;3154;1835;sie.99;gru.99;15.99
+65;ve;Venezuela;4797;3154;1643;lip.99;paü.99;13.99

@@ -1,0 +1,585 @@
+id;Title;Genre;Premiere;Runtime;IMDB_Score;Language
+1;Enter the Anime;Documentary;05.08.2019;58;2.5;English/Japanese
+2;Dark Forces;Thriller;21.08.2020;81;2.6;Spanish
+3;The App;Science fiction/Drama;26.12.2019;79;2.6;Italian
+4;The Open House;Horror thriller;19.01.2018;94;3.2;English
+5;Kaali Khuhi;Mystery;30.10.2020;90;3.4;Hindi
+6;Drive;Action;01.11.2019;147;3.5;Hindi
+7;Leyla Everlasting;Comedy;04.12.2020;112;3.7;Turkish
+8;The Last Days of American Crime;Heist film/Thriller;05.06.2020;149;3.7;English
+9;Paradox;Musical/Western/Fantasy;23.03.2018;73;3.9;English
+10;Sardar Ka Grandson;Comedy;18.05.2021;139;4.1;Hindi
+11;Searching for Sheela;Documentary;22.04.2021;58;4.1;English
+12;The Call;Drama;27.11.2020;112;4.1;Korean
+13;Whipped;Romantic comedy;18.09.2020;97;4.1;Indonesian
+14;All Because of You;Action comedy;01.10.2020;101;4.2;Malay
+15;Mercy;Thriller;22.11.2016;90;4.2;English
+16;After the Raid;Documentary;19.12.2019;25;4.3;Spanish
+17;Ghost Stories;Horror anthology;01.01.2020;144;4.3;Hindi
+18;The Last Thing He Wanted;Political thriller;21.02.2020;115;4.3;English
+19;What Happened to Mr. Cha?;Comedy;01.01.2021;102;4.3;Korean
+20;Death Note;Horror thriller;25.08.2017;100;4.4;English
+21;Hello Privilege. It's Me, Chelsea;Documentary;13.09.2019;64;4.4;English
+22;Secret Obsession;Thriller;18.07.2019;97;4.4;English
+23;Sextuplets;Comedy;16.08.2019;99;4.4;English
+24;The Girl on the Train;Thriller;26.02.2021;120;4.4;Hindi
+25;Thunder Force;Superhero-Comedy;09.04.2021;105;4.4;English
+26;Fatal Affair;Thriller;16.07.2020;89;4.5;English
+27;Just Say Yes;Romantic comedy;02.04.2021;97;4.5;Dutch
+28;Seriously Single;Comedy;31.07.2020;107;4.5;English
+29;The Misadventures of Hedi and Cokeman;Comedy;10.02.2021;99;4.5;French
+30;5 Star Christmas;Comedy;07.12.2018;95;4.6;Italian
+31;After Maria;Documentary;24.05.2019;37;4.6;English/Spanish
+32;I Am the Pretty Thing That Lives in the House;Horror;28.10.2016;89;4.6;English
+33;Paris Is Us;Romance drama;22.02.2019;83;4.6;French
+34;Porta dos Fundos: The First Temptation of Christ;Comedy;03.12.2019;46;4.6;Portuguese
+35;Rattlesnake;Horror;25.10.2019;85;4.6;English
+36;The Players;Comedy;15.07.2020;88;4.6;Italian
+37;We Are One;Documentary;14.07.2020;86;4.6;French
+38;Finding Agnes;Drama;30.11.2020;105;4.7;Filipino
+39;IO;Science fiction/Drama;18.01.2019;95;4.7;English
+40;Sentinelle;Action;05.03.2021;80;4.7;French
+41;Sol Levante;Anime / Short;02.04.2020;4;4.7;English
+42;The Binding;Drama;02.10.2020;93;4.7;Italian
+43;We Can Be Heroes;Superhero;25.12.2020;100;4.7;English
+44;Christmas Crossfire;Thriller;04.12.2020;106;4.8;German
+45;Coin Heist;Heist;06.01.2017;97;4.8;English
+46;Mrs. Serial Killer;Thriller;01.05.2020;106;4.8;Hindi
+47;Nobody Sleeps in the Woods Tonight;Horror;28.10.2020;103;4.8;Polish
+48;Take the 10;Comedy;20.01.2017;80;4.8;English
+49;The Main Event;Comedy;10.04.2020;101;4.8;English
+50;The Ridiculous 6;Western;11.12.2015;119;4.8;English
+51;Earth and Blood;Action;17.04.2020;80;4.9;French
+52;Fearless;Animation/Superhero;14.08.2020;89;4.9;English
+53;Holiday Rush;Family film;28.11.2019;94;4.9;English
+54;The Day of the Lord;Drama;30.10.2020;93;4.9;Spanish
+55;Airplane Mode;Comedy;23.01.2020;96;5;Portuguese
+56;How It Ends;Action-thriller;13.07.2018;113;5;English
+57;Love Like the Falling Rain;Drama;15.10.2020;86;5;Indonesian
+58;Rebirth;Thriller;15.07.2016;100;5;English
+59;Squared Love;Romantic comedy;11.02.2021;102;5;Polish
+60;Cadaver;Horror;22.10.2020;86;5.1;Norwegian
+61;Clinical;Thriller;13.01.2017;104;5.1;English
+62;Coffee & Kareem;Action comedy;03.04.2020;88;5.1;English
+63;Dude;Teen comedy-drama;20.04.2018;97;5.1;English
+64;Geez & Ann;Romantic drama;25.02.2021;105;5.1;Indonesian
+65;The Larva Island Movie;Animation;23.07.2020;90;5.1;English
+66;#REALITYHIGH;Comedy;08.09.2017;99;5.2;English
+67;American Factory: A Conversation with the Obamas ;Aftershow / Interview;21.08.2019;10;5.2;English
+68;Desperados;Romantic comedy;03.07.2020;106;5.2;English
+69;Dolly Parton's Christmas on the Square;Christmas musical;22.11.2020;98;5.2;English
+70;Father of the Year;Comedy;20.07.2018;94;5.2;English
+71;Firebrand;Drama;22.02.2019;112;5.2;Marathi
+72;Ghost Lab;Horror;26.05.2021;117;5.2;Thai
+73;Girlfriend's Day;Comedy;14.02.2017;70;5.2;English
+74;Handsome: A Netflix Mystery Movie;Comedy;05.05.2017;81;5.2;English
+75;Hubie Halloween;Comedy;07.10.2020;103;5.2;English
+76;Ibiza;Comedy;25.05.2018;94;5.2;English
+77;Rim of the World;Science fiction adventure;24.05.2019;98;5.2;English
+78;Sandy Wexler;Comedy;14.04.2017;131;5.2;English
+79;See You Yesterday;Science fiction;17.05.2019;87;5.2;English
+80;Still Laugh-In: The Stars Celebrate;Variety show;14.05.2019;60;5.2;English
+81;Strip Down, Rise Up;Documentary;05.02.2021;112;5.2;English
+82;Tall Girl;Comedy-drama;13.09.2019;102;5.2;English
+83;The Beast;Drama;27.11.2020;99;5.2;Italian
+84;The Week Of;Comedy;27.04.2018;116;5.2;English
+85;A Christmas Prince: The Royal Wedding;Romantic comedy;30.11.2018;92;5.3;English
+86;Back to School;Comedy;30.08.2019;83;5.3;French
+87;Dangerous Lies;Thriller;30.04.2020;97;5.3;English
+88;Gunjan Saxena: The Kargil Girl;Drama;12.08.2020;112;5.3;Hindi
+89;Intuition;Thriller;28.05.2020;116;5.3;Spanish
+90;The Most Assassinated Woman in the World;Thriller;07.09.2018;102;5.3;French
+91;Things Heard & Seen;Horror;29.04.2021;121;5.3;English
+92;To Each, Her Own;Romantic comedy;24.06.2018;95;5.3;French
+93;Who Would You Take to a Deserted Island?;Drama;12.04.2019;93;5.3;Spanish
+94;XOXO;Drama;26.08.2016;92;5.3;English
+95;A Babysitter's Guide to Monster Hunting;Comedy/Fantasy/Family;15.10.2020;98;5.4;English
+96;A Christmas Prince: The Royal Baby;Romantic comedy;05.12.2019;85;5.4;English
+97;Despite Everything;Comedy;03.05.2019;78;5.4;Spanish
+98;Dolly Kitty and Those Twinkling Stars;Drama;18.09.2020;120;5.4;Hindi
+99;Freaks: You're One of Us;Supernatural drama;02.09.2020;92;5.4;German
+100;Game Over, Man!;Action/Comedy;23.03.2018;101;5.4;English
+101;Guilty;Thriller;06.03.2020;119;5.4;Hindi
+102;In the Tall Grass;Horror;04.10.2019;101;5.4;English
+103;Madame Claude;Drama;02.04.2021;112;5.4;French
+104;Naked;Comedy;11.08.2017;96;5.4;English
+105;Outside the Wire;Action/Science fiction;15.01.2021;114;5.4;English
+106;The Princess Switch: Switched Again;Romantic comedy;19.11.2020;97;5.4;English
+107;Under the Riccione Sun;Romantic teenage drama;01.07.2020;101;5.4;Italian
+108;A Very Murray Christmas;Comedy / Musical;04.12.2015;56;5.5;English
+109;Been So Long;Musical;26.10.2018;100;5.5;English
+110;Dead Kids;Thriller;01.12.2019;94;5.5;Filipino
+111;Get the Grift;Comedy;28.04.2021;94;5.5;Portuguese
+112;Ghosts of Sugar Land;Documentary;16.10.2019;21;5.5;English
+113;House Arrest;Comedy;15.11.2019;104;5.5;Hindi
+114;Kevin Hart's Guide to Black History;Variety show;08.02.2019;63;5.5;English
+115;Love Wedding Repeat;Romantic comedy;10.04.2020;100;5.5;English
+116;Mute;Science fiction/Mystery;23.02.2018;126;5.5;English
+117;Òlòt?ré;Crime drama;02.10.2020;106;5.5;English
+118;Red Dot;Thriller;11.02.2021;86;5.5;Swedish
+119;Ride or Die;Psychological thriller drama;15.04.2021;142;5.5;Japanese
+120;Step Sisters;Comedy;19.01.2018;108;5.5;English
+121;The Cloverfield Paradox;Science fiction;04.02.2018;102;5.5;English
+122;The Knight Before Christmas;Romantic comedy;21.11.2019;92;5.5;English
+123;The Legacy of a Whitetail Deer Hunter;Adventure/Comedy;06.07.2018;83;5.5;English
+124;The Package;Black comedy;10.08.2018;94;5.5;English
+125;Unicorn Store;Comedy;05.04.2019;92;5.5;English
+126;Wine Country;Comedy;10.05.2019;103;5.5;English
+127;Bomb Scared;Black comedy;12.10.2017;89;5.6;Spanish/Basque
+128;Brahman Naman;Comedy;07.07.2016;95;5.6;English
+129;Double Dad;Comedy-drama;15.01.2021;103;5.6;Portuguese
+130;Falling Inn Love;Romantic comedy;29.08.2019;97;5.6;English
+131;Hold the Dark;Thriller;28.09.2018;125;5.6;English
+132;Love, Guaranteed;Romantic comedy;03.09.2020;91;5.6;English
+133;One-Way to Tomorrow;Romance;19.06.2020;90;5.6;Turkish
+134;Sarah Cooper: Everything's Fine;Variety show;27.10.2020;49;5.6;English
+135;The Last Laugh;Comedy-drama;11.01.2019;98;5.6;English
+136;The Last Paradiso;Romantic drama;05.02.2021;107;5.6;Italian
+137;The Midnight Sky;Science fiction;23.12.2020;118;5.6;English
+138;The Paramedic;Thriller;16.09.2020;94;5.6;Spanish
+139;The Sleepover;Comedy;21.08.2020;103;5.6;English
+140;Vampires vs. the Bronx;Horror comedy;02.10.2020;86;5.6;English
+141;Why Did You Kill Me?;Documentary;14.04.2021;83;5.6;English
+142;A Week Away;Christian musical;26.03.2021;97;5.7;English
+143;Caught by a Wave;Romantic teen drama;25.03.2021;99;5.7;Italian
+144;Christmas Inheritance;Romantic drama;15.12.2017;104;5.7;English
+145;Dad Wanted;Family;11.09.2020;102;5.7;Spanish
+146;El Camino Christmas;Dark comedy;08.12.2017;89;5.7;English
+147;Eli;Horror;18.10.2019;98;5.7;English
+148;Ginny Weds Sunny;Romantic comedy;09.10.2020;125;5.7;Hindi
+149;Good Sam;Drama;16.05.2019;89;5.7;English
+150;Lionheart;Comedy;04.01.2019;94;5.7;English
+151;Little Evil;Comedy horror;01.09.2017;94;5.7;English
+152;One Take;Documentary;18.06.2020;85;5.7;Thai
+153;Out of Many, One;Documentary;12.12.2018;34;5.7;English
+154;Point Blank;Action;12.07.2019;86;5.7;English
+155;Prime Time;Thriller;14.04.2021;91;5.7;Polish
+156;The Do-Over;Action comedy;27.05.2016;108;5.7;English
+157;The Holiday Calendar;Romantic comedy;02.11.2018;95;5.7;English
+158;The Woman in the Window;Psychological thriller;14.05.2021;100;5.7;English
+159;The Wrong Missy;Comedy;13.05.2020;90;5.7;English
+160;Velvet Buzzsaw;Thriller;01.02.2019;112;5.7;English
+161;Yes Day;Comedy;12.03.2021;86;5.7;English
+162;15 August;Comedy-drama;29.03.2019;124;5.8;Marathi
+163;A California Christmas;Romantic comedy;14.12.2020;107;5.8;English
+164;A Christmas Prince;Romantic comedy;17.11.2017;92;5.8;English
+165;All Day and a Night;Drama;01.05.2020;121;5.8;English
+166;American Son;Drama;01.11.2019;90;5.8;English
+167;Barry;Biopic;16.12.2016;104;5.8;English
+168;Candy Jar;Comedy;27.04.2018;92;5.8;English
+169;Choked: Paisa Bolta Hai;Drama;05.06.2020;114;5.8;Hindi
+170;Class of '83;Drama;21.08.2020;98;5.8;Hindi
+171;Extinction;Science fiction/Thriller;27.07.2018;95;5.8;English
+172;Happy Anniversary;Romantic comedy;30.03.2018;78;5.8;English
+173;I Am All Girls;Thriller;14.05.2021;107;5.8;English
+174;Let It Snow;Romantic comedy;08.11.2019;92;5.8;English
+175;Mascots;Mockumentary;13.10.2016;95;5.8;English
+176;Operation Christmas Drop;Romantic comedy;05.11.2020;96;5.8;English
+177;Rajma Chawal;Comedy-drama;30.11.2018;118;5.8;Hindi
+178;Rich in Love;Romantic comedy;30.04.2020;105;5.8;Portuguese
+179;Rising High;Satire;17.04.2020;94;5.8;German
+180;Rodney King;One-man show;28.04.2017;52;5.8;English
+181;Sierra Burgess Is a Loser;Romantic comedy-drama;07.09.2018;105;5.8;English
+182;Small Crimes;Dark comedy;28.04.2017;95;5.8;English
+183;Special Correspondents;Satire;29.04.2016;100;5.8;English
+184;TAU;Science fiction/Thriller;29.06.2018;97;5.8;English
+185;The After Party;Comedy;24.08.2018;89;5.8;English
+186;The Babysitter: Killer Queen;Comedy/Horror;10.09.2020;102;5.8;English
+187;The Claus Family;Fantasy;07.12.2020;96;5.8;Dutch
+188;The Kissing Booth 2;Romantic comedy;24.07.2020;131;5.8;English
+189;The Perfect Date;Romantic comedy;12.04.2019;89;5.8;English
+190;What We Wanted;Drama;11.11.2020;93;5.8;German
+191;You've Got This;Romantic comedy;02.10.2020;111;5.8;Spanish
+192;6 Balloons;Drama;06.04.2018;75;5.9;English
+193;A Fall from Grace;Thriller;17.01.2020;120;5.9;English
+194;Amateur;Sports-drama;06.04.2018;96;5.9;English
+195;Army of the Dead;Zombie/Heist;21.05.2021;148;5.9;English
+196;Cam;Psychological horror;16.11.2018;94;5.9;English
+197;Earthquake Bird;Mystery;15.11.2019;107;5.9;English
+198;Frankenstein's Monster's Monster, Frankenstein;Mockumentary;16.07.2019;32;5.9;English
+199;Horse Girl;Drama;07.02.2020;104;5.9;English
+200;Notes from Dunblane: Lesson from a School Shooting;Documentary;28.09.2018;23;5.9;English
+201;Maska;Romantic comedy;27.03.2020;111;5.9;Hindi
+202;The Decline;Thriller;27.03.2020;83;5.9;French
+203;The Minimalists: Less Is Now;Documentary;01.01.2021;53;5.9;English
+204;The Polka King;Comedy-drama;12.01.2018;95;5.9;English
+205;The Prom;Musical;11.12.2020;132;5.9;English
+206;True Memoirs of an International Assassin;Action comedy;11.11.2016;98;5.9;English
+207;Ultras;Sports film;20.03.2020;108;5.9;Italian
+208;Come Sunday;Biopic;13.04.2018;106;6;English
+209;Forgive Us Our Debts;Drama;04.05.2018;104;6;Italian
+210;iBoy;Science fiction/Thriller;27.01.2017;90;6;English
+211;Lovefucked;Drama;09.08.2019;106;6;Hindi
+212;Juanita;Drama;08.03.2019;90;6;English
+213;Murder Mystery;Comedy mystery;14.06.2019;97;6;English
+214;Project Power;Superhero;14.08.2020;113;6;English
+215;Rebecca;Romantic thriller;21.10.2020;123;6;English
+216;The Christmas Chronicles: Part Two;Christmas comedy;25.11.2020;115;6;English
+217;The Kissing Booth;Romantic comedy;11.05.2018;105;6;English
+218;The Princess Switch;Romantic comedy;16.11.2018;101;6;English
+219;To All the Boys: P.S. I Still Love You;Romantic comedy;12.02.2020;102;6;English
+220;War Machine;War-Comedy;26.05.2017;122;6;English
+221;6 Underground;Action;13.12.2019;128;6.1;English
+222;Between Two Ferns: The Movie;Comedy;20.09.2019;82;6.1;English
+223;Burning Sands;Drama;10.03.2017;102;6.1;English
+224;Casting JonBenet;Documentary;28.04.2017;80;6.1;English
+225;Deidra & Laney Rob a Train;Drama;17.03.2017;94;6.1;English
+226;Finding 'Ohana;Family;29.01.2021;123;6.1;English
+227;Holidate;Romantic comedy/Holiday;28.10.2020;104;6.1;English
+228;Holiday in the Wild;Adventure-romance;01.11.2019;85;6.1;English
+229;Hot Girls Wanted;Documentary;29.05.2015;84;6.1;English
+230;Like Father;Comedy;03.08.2018;103;6.1;English
+231;Lost Girls;Crime drama;13.03.2020;95;6.1;English
+232;Otherhood;Comedy;02.08.2019;100;6.1;English
+233;Pee-wee's Big Holiday;Adventure;18.03.2016;89;6.1;English
+234;Rogue City;Crime drama;30.10.2020;116;6.1;French
+235;Sergio;Biopic;17.04.2020;118;6.1;English
+236;Stuck Apart;Drama;08.01.2021;96;6.1;Turkish
+237;Tersanjung the Movie;Drama;01.04.2021;114;6.1;Indonesian
+238;The Killer;Western;10.11.2017;99;6.1;Portuguese
+239;The Lovebirds;Romantic comedy;22.05.2020;87;6.1;English
+240;The Most Hated Woman in America;Biopic;24.03.2017;92;6.1;English
+241;The Perfection;Horror-thriller;24.05.2019;90;6.1;English
+242;Tribhanga – Tedhi Medhi Crazy;Drama;15.01.2021;95;6.1;Hindi
+243;Unknown Origins;Thriller;28.08.2020;96;6.1;Spanish
+244;Work It;Dance comedy;07.08.2020;93;6.1;English
+245;Alien Xmas;Stop Motion;20.11.2020;42;6.2;English
+246;Baggio: The Divine Ponytail;Biopic;26.05.2021;92;6.2;Italian
+247;Below Zero;Drama;29.01.2021;106;6.2;Spanish
+248;Citation;Drama;06.11.2020;151;6.2;English
+249;Crazy Awesome Teachers;Comedy-drama;17.08.2020;101;6.2;Indonesian
+250;Have You Ever Seen Fireflies?;Comedy;09.04.2021;114;6.2;Turkish
+251;High Flying Bird;Sports-drama;08.02.2019;90;6.2;English
+252;In the Shadow of the Moon;Thriller;27.09.2019;115;6.2;English
+253;Lost Bullet;Thriller;19.06.2020;92;6.2;French
+254;Octonauts & the Caves of Sac Actun;Animation;14.08.2020;72;6.2;English
+255;Offering to the Storm;Thriller;24.07.2020;139;6.2;Spanish
+256;Roxanne Roxanne;Biopic;23.03.2018;98;6.2;English
+257;Someone Great;Romantic comedy;19.04.2019;92;6.2;English
+258;Spenser Confidential;Action comedy;06.03.2020;111;6.2;English
+259;The Land of Steady Habits;Drama;14.09.2018;98;6.2;English
+260;The Rachel Divide;Documentary;27.04.2018;104;6.2;English
+261;Voyuer ;Documentary;01.12.2017;95;6.2;English
+262;Win It All;Comedy;07.04.2017;88;6.2;English
+263;1922;Horror/Crime drama;20.10.2017;102;6.3;English
+264;A Tale of Two Kitchens;Documentary;22.05.2019;30;6.3;English/Spanish
+265;Alex Strangelove;Romantic comedy;08.06.2018;99;6.3;English
+266;Apostle;Horror-thriller;12.10.2018;129;6.3;English
+267;Benji;Family film;16.03.2018;87;6.3;English
+268;Bright;Urban fantasy;22.12.2017;117;6.3;English
+269;Cargo;Drama/Horror;18.05.2018;104;6.3;English
+270;Concrete Cowboy;Drama;02.04.2021;111;6.3;English
+271;Feel the Beat;Family/Comedy-drama;19.06.2020;107;6.3;English
+272;Get the Goat;Comedy;18.03.2021;97;6.3;Portuguese
+273;I Am Not an Easy Man;Romantic comedy;13.04.2018;98;6.3;French
+274;June & Kopi;Drama;28.01.2021;90;6.3;Indonesian
+275;Music Teacher;Drama;19.04.2019;101;6.3;Hindi
+276;Nail Bomber: Manhunt;Documentary;26.05.2021;72;6.3;English
+277;Notes for My Son;Drama;24.11.2020;83;6.3;Spanish
+278;Polar;Action;25.01.2019;118;6.3;English
+279;Porta dos Fundos: The Last Hangover;Comedy;21.12.2018;44;6.3;Portuguese
+280;Sand Castle;War;21.04.2017;113;6.3;English
+281;Shimmer Lake;Crime thriller;09.06.2017;86;6.3;English
+282;Spectral;Science fiction/Action;09.12.2016;108;6.3;English
+283;The Babysitter;Teen comedy horror;13.10.2017;85;6.3;English
+284;The Discovery;Science fiction/Drama;31.03.2017;102;6.3;English
+285;The Forest of Love;Drama;11.10.2019;151;6.3;Japanese
+286;The Laundromat;Comedy-drama;18.10.2019;98;6.3;English
+287;The Legend of Cocaine Island;Documentary;29.03.2019;87;6.3;English
+288;The Outsider;Crime drama;09.03.2018;120;6.3;English/Japanese
+289;Time to Hunt;Thriller;23.04.2020;134;6.3;Korean
+290;To All the Boys: Always and Forever;Romantic comedy;12.02.2021;109;6.3;English
+291;Travis Scott: Look Mom I Can Fly;Documentary;28.08.2019;85;6.3;English
+292;Uncorked;Drama;27.03.2020;103;6.3;English
+293;Anelka: Misunderstood;Documentary;05.08.2020;94;6.4;French
+294;Ariana Grande: Excuse Me, I Love You;Concert Film;21.12.2020;97;6.4;English
+295;ARQ;Science fiction/Thriller;16.09.2016;88;6.4;English
+296;Birders;Documentary;25.09.2019;37;6.4;English/Spanish
+297;Como Caído del Cielo;Musical comedy;24.12.2019;112;6.4;Spanish
+298;First Match;Sports-drama;30.03.2018;102;6.4;English
+299;Fractured;Thriller;11.10.2019;100;6.4;English
+300;Irreplaceable You;Drama;16.02.2018;96;6.4;English
+301;Isi & Ossi;Romantic comedy;14.02.2020;113;6.4;German
+302;John Was Trying to Contact Aliens;Documentary;20.08.2020;16;6.4;English
+303;Layla Majnun;Romantic drama;11.02.2021;119;6.4;Indonesian
+304;Murder to Mercy: The Cyntoia Brown Story;Documentary;29.04.2020;97;6.4;English
+305;My Own Man;Documentary;13.12.2014;81;6.4;English
+306;Nappily Ever After;Comedy-drama;21.09.2018;98;6.4;English
+307;Over the Moon;Animation/Musical/Adventure;23.10.2020;95;6.4;English
+308;Street Flow;Drama;12.10.2019;96;6.4;French
+309;Strong Island;Documentary;15.09.2017;107;6.4;English
+310;Sturgill Simpson Presents: Sound & Fury;Animation / Musicial;27.09.2019;41;6.4;English
+311;Take Your Pills;Documentary;16.03.2018;87;6.4;English
+312;The Heartbreak Club;Comedy-drama;14.01.2021;101;6.4;Indonesian
+313;The Mars Generation;Documentary;05.05.2017;97;6.4;English
+314;The Occupant;Thriller;25.03.2020;103;6.4;Spanish
+315;The Willoughbys;Animation/Comedy/Adventure;22.04.2020;90;6.4;English
+316;Triple Frontier;Action-thriller;13.03.2019;125;6.4;English
+317;Two Catalonias;Documentary;28.09.2018;116;6.4;Spanish/Catalan
+318;Walk. Ride. Rodeo.;Drama;08.03.2019;99;6.4;English
+319;Wheelman;Action thriller;20.10.2017;82;6.4;English
+320;When We First Met;Romantic comedy;09.02.2018;97;6.4;English
+321;A 3 Minute Hug;Documentary;28.10.2019;28;6.5;English/Spanish
+322;All the Bright Places;Romance;28.02.2020;108;6.5;English
+323;All Together Now;Drama;28.08.2020;93;6.5;English
+324;Altered Carbon: Resleeved;Anime/Science fiction;19.03.2020;74;6.5;Japanese
+325;Antoine Griezmann: The Making of a Legend;Documentary;21.03.2019;60;6.5;French
+326;Canvas ;Animation / Short;11.12.2020;9;6.5;English
+327;Chadwick Boseman: Portrait of an Artist;Documentary;17.04.2021;21;6.5;English
+328;Chopsticks;Comedy;31.05.2019;100;6.5;Hindi
+329;Da 5 Bloods;War drama;12.06.2020;155;6.5;English
+330;Dolly Parton: A MusiCares Tribute;Documentary;07.04.2021;55;6.5;English
+331;Eurovision Song Contest: The Story of Fire Saga;Musical comedy;26.06.2020;123;6.5;English
+332;Gerald's Game;Horror thriller;29.09.2017;103;6.5;English
+333;His House;Thriller;30.10.2020;93;6.5;English
+334;Jingle Jangle: A Christmas Journey;Family/Christmas musical;13.11.2020;119;6.5;English
+335;Life Overtakes Me;Documentary;14.06.2019;40;6.5;English/Swedish
+336;Lust Stories;Drama;15.06.2018;120;6.5;Hindi
+337;Monster;Drama;07.05.2021;98;6.5;English
+338;Mowgli: Legend of the Jungle;Adventure;07.12.2018;104;6.5;English
+339;Nobody Knows I'm Here;Drama;24.06.2020;91;6.5;Spanish
+340;Nobody Speak: Trials of the Free Press;Documentary;23.06.2017;95;6.5;English
+341;Oxygen;Science fiction thriller;12.05.2021;101;6.5;French
+342;Set It Up;Romantic comedy;15.06.2018;105;6.5;English
+343;The Incredible Jessica James;Comedy;28.07.2017;83;6.5;English
+344;Tigertail;Drama;10.04.2020;91;6.5;English/Taiwanese/Mandarin
+345;Tramps;Romance;21.04.2017;83;6.5;English
+346;What Did Jack Do?;Drama / Short;20.01.2020;17;6.5;English
+347;Bad Trip;Hidden-camera prank comedy;26.03.2021;86;6.6;English
+348;Bird Box;Psychological thriller;21.12.2018;124;6.6;English
+349;Bulbbul;Horror;24.06.2020;94;6.6;Hindi
+350;Crazy About Her;Romantic comedy;26.02.2021;102;6.6;Spanish
+351;Elisa & Marcela;Romance;07.06.2019;118;6.6;Spanish
+352;I'll Sleep When I'm Dead;Documentary;19.08.2016;79;6.6;English
+353;I'm Thinking of Ending Things;Psychological thriller;04.09.2020;134;6.6;English
+354;It Takes a Lunatic;Documentary;25.10.2019;126;6.6;English
+355;Milestone;Drama;07.05.2021;98;6.6;Hindi
+356;Recovery Boys;Documentary;29.06.2018;89;6.6;English
+357;ReMastered: Who Killed Jam Master Jay?;Documentary;07.12.2018;58;6.6;English
+358;Shawn Mendes: In Wonder;Documentary;23.11.2020;83;6.6;English
+359;Space Sweepers;Science fiction;05.02.2021;136;6.6;Korean
+360;The American Meme;Documentary;07.12.2018;98;6.6;English
+361;The Angel;Spy thriller;14.09.2018;114;6.6;English
+362;The Crimes That Bind;Crime drama;20.08.2020;99;6.6;Spanish
+363;The Red Sea Diving Resort;Spy thriller;31.07.2019;130;6.6;English
+364;What Would Sophia Loren Do?;Documentary;15.01.2021;32;6.6;English
+365;A Whisker Away;Anime/Fantasy;18.06.2020;104;6.7;Japanese
+366;Ajeeb Daastaans;Drama;16.04.2021;142;6.7;Hindi
+367;Arlo the Alligator Boy;Animated musical comedy;16.04.2021;92;6.7;English
+368;Bikram: Yogi, Guru, Predator;Documentary;20.11.2019;86;6.7;English
+369;Blame!;Anime/Science fiction;20.05.2017;106;6.7;Japanese
+370;Blue Miracle;Drama;27.05.2021;95;6.7;English
+371;CounterPunch ;Documentary;16.06.2017;91;6.7;English
+372;Crack: Cocaine, Corruption & Conspiracy;Documentary;11.01.2021;89;6.7;English
+373;Extraction;Action;24.04.2020;117;6.7;English
+374;Giving Voice;Documentary;11.12.2020;90;6.7;English
+375;Hillbilly Elegy;Drama;24.11.2020;117;6.7;English
+376;Hope Frozen: A Quest to Live Twice;Documentary;15.09.2020;80;6.7;Thia/English
+377;Imperial Dreams;Drama;03.02.2017;87;6.7;English
+378;Just Another Christmas;Comedy;03.12.2020;101;6.7;Portuguese
+379;Little Miss Sumo;Documentary;28.10.2019;19;6.7;Japanese
+380;Malcolm & Marie;Romantic drama;05.02.2021;106;6.7;English
+381;Michael Bolton's Big, Sexy, Valentine's Day Special;Variety Show;07.02.2017;54;6.7;English
+382;Moxie;Drama;03.03.2021;111;6.7;English
+383;Night in Paradise;Drama;09.04.2021;132;6.7;Korean
+384;Paper Lives;Drama;12.03.2021;97;6.7;Turkish
+385;Parchis: The Documentary;Documentary;10.07.2019;106;6.7;Spanish
+386;Tallulah;Comedy-drama;29.07.2016;111;6.7;English
+387;The Old Guard;Superhero/Action;10.07.2020;124;6.7;English
+388;Tony Robbins: I Am Not Your Guru;Documentary;15.07.2016;116;6.7;English
+389;Upstarts;Drama;18.10.2019;112;6.7;Hindi
+390;22 July;Drama;10.10.2018;144;6.8;English
+391;7 años;Drama;28.10.2016;76;6.8;Spanish
+392;A Futile and Stupid Gesture;Biographical/Comedy;26.01.2018;101;6.8;English
+393;A Life of Speed: The Juan Manuel Fangio Story;Documentary;20.03.2020;92;6.8;Spanish
+394;A Love Song for Latasha;Documentary;21.09.2020;19;6.8;English
+395;All in My Family;Documentary;03.05.2019;39;6.8;English/Mandarin
+396;Always Be My Maybe;Romantic comedy;31.05.2019;102;6.8;English
+397;Becoming;Documentary;06.05.2020;89;6.8;English
+398;Long Live Brij Mohan;Comedy;03.08.2018;105;6.8;Hindi
+399;Calibre;Thriller;29.06.2018;101;6.8;English
+400;Death to 2020;Comedy;27.12.2020;70;6.8;English
+401;GIMS: On the Record;Documentary;17.09.2020;96;6.8;French
+402;Have a Good Trip: Adventures in Psychedelics;Documentary;11.05.2020;85;6.8;English
+403;Heroin(e) ;Documentary;12.09.2017;39;6.8;English
+404;Mercury 13;Documentary;20.04.2018;79;6.8;English
+405;Saving Capitalism;Documentary;21.11.2017;73;6.8;English
+406;Serious Men;Drama;02.10.2020;114;6.8;Hindi
+407;The Boys in the Band;Drama;30.09.2020;121;6.8;English
+408;The Boys in the Band: Something Personal;Aftershow / Interview;30.09.2020;28;6.8;English
+409;The Life Ahead;Drama;13.11.2020;95;6.8;Italian
+410;The Other Side of the Wind;Drama;02.11.2018;122;6.8;English
+411;The Trader;Documentary;09.02.2018;23;6.8;Georgian
+412;To the Bone;Drama;14.07.2017;107;6.8;English
+413;Tony Parker: The Final Shot;Documentary;06.01.2021;98;6.8;French
+414;AK vs AK;Thriller;24.12.2020;108;6.9;Hindi
+415;Amanda Knox;Documentary;30.09.2016;92;6.9;English
+416;Bigflo & Oil: Hip Hop Frenzy;Documentary;08.10.2020;100;6.9;French
+417;Biggie: I Got a Story to Tell;Documentary;01.03.2021;97;6.9;English
+418;Cops and Robbers;Animation / Short;28.12.2020;7;6.9;English
+419;I Don't Feel at Home in This World Anymore;Drama;24.02.2017;96;6.9;English
+420;Laerte-se;Documentary;19.05.2017;100;6.9;Portuguese
+421;Mank;Biopic;04.12.2020;132;6.9;English
+422;Our Souls at Night;Romance;29.09.2017;103;6.9;English
+423;Outlaw King;Historical-epic;09.11.2018;121;6.9;English
+424;Pagglait;Comedy-drama;26.03.2021;114;6.9;Hindi
+425;ReMastered: Who Shot the Sheriff?;Documentary;12.10.2018;57;6.9;English
+426;Seeing Allred;Documentary;09.02.2018;95;6.9;English
+427;Spelling the Dream;Documentary;03.06.2020;83;6.9;English
+428;The Claudia Kishi Club;Documentary;10.07.2020;17;6.9;English
+429;The Half of It;Romance;01.05.2020;105;6.9;English
+430;The Highwaymen;Crime drama;29.03.2019;131;6.9;English
+431;The Lonely Island Presents: The Unauthorized Bash Brothers Experience;Comedy / Musical;23.05.2019;30;6.9;English
+432;The Meyerowitz Stories (New and Selected);Comedy-drama;13.10.2017;112;6.9;English
+433;Feminists: What Were They Thinking?;Documentary;12.10.2018;86;7;English
+434;Gaga: Five Foot Two;Documentary;22.09.2017;100;7;English
+435;I'm No Longer Here: A Discussion with Guillermo del Toro and Alfonso Cuaron;Aftershow / Interview;03.11.2020;14;7;English
+436;Kingdom of Us;Documentary;13.10.2017;109;7;English
+437;Lorena, Light-Footed Woman;Documentary;20.11.2019;28;7;Spanish
+438;Los Tigres del Norte at Folsom Prison;Documentary;15.09.2019;64;7;Spanish
+439;Ma Rainey's Black Bottom;Drama;18.12.2020;94;7;English
+440;Ma Rainey's Black Bottom: A Legacy Brought to Screen;Aftershow / Interview;18.12.2020;31;7;English
+441;Operation Varsity Blues: The College Admissions Scandal;Documentary;17.03.2021;99;7;English
+442;Pele;Documentary;23.02.2021;108;7;English
+443;ReMastered: Devil at the Crossroads;Documentary;26.04.2019;48;7;English
+444;ReMastered: The Lion's Share;Documentary;17.05.2019;84;7;English
+445;ReMastered: The Miami Showband Massacre;Documentary;22.03.2019;70;7;English
+446;Resurface;Documentary;01.09.2017;27;7;English
+447;Rocko's Modern Life: Static Cling;Animation / Comedy;09.08.2019;45;7;English
+448;Rose Island;Comedy;09.12.2020;117;7;Italian
+449;The Christmas Chronicles;Christmas/Fantasy/Adventure/Comedy;22.11.2018;104;7;English
+450;The Dirt;Biopic;22.03.2019;108;7;English
+451;The Night Comes for Us;Action-thriller;19.10.2018;121;7;Indonesian
+452;13th: A Conversation with Oprah Winfrey & Ava DuVernay;Aftershow / Interview;26.01.2017;36;7.1;English
+453;Angela's Christmas;Animation;30.11.2018;30;7.1;English
+454;Angela's Christmas Wish;Animation;01.12.2020;47;7.1;English
+455;Beats;Drama;19.06.2019;110;7.1;English
+456;Circus of Books;Documentary;22.04.2020;92;7.1;English
+457;Dance Dreams: Hot Chocolate Nutcracker;Documentary;27.11.2020;80;7.1;English
+458;Derren Brown: Sacrifice;Mentalism special;19.10.2018;49;7.1;English
+459;El Pepe: A Supreme Life;Documentary;27.12.2019;73;7.1;Spanish
+460;End Game;Documentary;04.05.2018;40;7.1;English
+461;Evelyn;Documentary;10.09.2019;96;7.1;English
+462;Ferry;Crime drama;14.05.2021;106;7.1;Dutch
+463;Grass Is Greener;Documentary;20.04.2019;97;7.1;English
+464;Guillermo Vilas: Settling the Score;Documentary;27.10.2020;94;7.1;Spanish
+465;Joshua: Teenager vs. Superpower;Documentary;26.05.2017;78;7.1;English
+466;Keith Richards: Under the Influence;Documentary;18.09.2015;81;7.1;English
+467;Knock Down the House;Documentary;01.05.2019;87;7.1;English
+468;Loudon Wainwright III: Surviving Twin;One-man show;13.11.2018;91;7.1;English
+469;My Beautiful Broken Brain;Documentary;18.03.2016;91;7.1;English
+470;One of Us;Documentary;20.10.2017;95;7.1;English
+471;Pieces of a Woman;Drama;07.01.2021;126;7.1;English
+472;Ram Dass, Going Home;Documentary;06.04.2018;31;7.1;English
+473;ReMastered: Tricky Dick & the Man in Black;Documentary;02.11.2018;58;7.1;English
+474;Rooting for Roona;Documentary;15.10.2020;41;7.1;Bengali
+475;The Devil All the Time;Psychological thriller;16.09.2020;138;7.1;English
+476;The Dig;Drama;29.01.2021;112;7.1;English
+477;The Great Hack;Documentary;24.07.2019;114;7.1;English
+478;The White Tiger;Drama;22.01.2021;125;7.1;English
+479;To All the Boys I've Loved Before;Romantic comedy;17.08.2018;99;7.1;English
+480;American Murder: The Family Next Door;Documentary;30.09.2020;82;7.2;English
+481;Audrie & Daisy;Documentary;23.09.2016;98;7.2;English
+482;First They Killed My Father;Drama;15.09.2017;136;7.2;Khmer/English/French
+483;Fyre: The Greatest Party That Never Happened;Documentary;18.01.2019;97;7.2;English
+484;Into the Inferno;Documentary;28.10.2016;107;7.2;English
+485;LA Originals;Documentary;10.04.2020;92;7.2;English
+486;Ladies First;Documentary;08.03.2018;39;7.2;English/Hindi
+487;Love per Square Foot;Romantic comedy;14.02.2018;133;7.2;Hindi
+488;Paddleton;Drama-Comedy;22.02.2019;89;7.2;English
+489;Private Life;Drama;05.10.2018;124;7.2;English
+490;Seventeen;Coming-of-age comedy-drama;18.10.2019;99;7.2;Spanish
+491;Sometimes;Drama;01.05.2018;101;7.2;Tamil
+492;Soni;Crime drama;18.01.2019;97;7.2;Hindi
+493;The 40-Year-Old Version;Comedy;09.10.2020;124;7.2;English
+494;The Disciple;Drama;30.04.2021;129;7.2;Marathi
+495;The Edge of Democracy;Documentary;19.06.2019;121;7.2;Portuguese
+496;The King;Historical drama;01.11.2019;140;7.2;English
+497;The Road to El Camino: A Breaking Bad Movie;Making-of;29.10.2019;13;7.2;English
+498;The Siege of Jadotville;War;07.10.2016;108;7.2;English
+499;Zion ;Documentary;10.08.2018;11;7.2;English
+500;Dolemite Is My Name;Biopic;25.10.2019;118;7.3;English
+501;El Camino: A Breaking Bad Movie;Crime drama;11.10.2019;121;7.3;English
+502;Extremis;Documentary;13.09.2016;24;7.3;English
+503;Father Soldier Son;Documentary;17.07.2020;100;7.3;English
+504;Get Me Roger Stone;Documentary;12.05.2017;101;7.3;English
+505;I'm No Longer Here;Drama;27.05.2020;105;7.3;Spanish
+506;Mucho Mucho Amor: The Legend of Walter Mercado ;Documentary;08.07.2020;96;7.3;Spanish/English
+507;Octonauts & the Great Barrier Reef;Animation;13.10.2020;47;7.3;English
+508;Okja;Action-adventure;28.06.2017;121;7.3;English/Korean
+509;On My Skin;Crime drama;12.09.2018;100;7.3;Italian
+510;Raat Akeli Hai;Thriller;31.07.2020;149;7.3;Hindi
+511;ReMastered: Massacre at the Stadium;Documentary;11.01.2019;64;7.3;English/Spanish
+512;ReMastered: The Two Killings of Sam Cooke;Documentary;08.02.2019;64;7.3;English
+513;Secrets of the Saqqara Tomb;Documentary;28.10.2020;114;7.3;English/Arabic
+514;Sitara: Let Girls Dream;Animation / Short;08.03.2020;15;7.3;English
+515;Sky Ladder: The Art of Cai Guo-Qiang;Documentary;14.10.2016;79;7.3;English/Mandarin
+516;Team Foxcatcher;Documentary;29.04.2016;90;7.3;English/Russian
+517;The Ballad of Buster Scruggs;Western;16.11.2018;132;7.3;English
+518;The Death and Life of Marsha P. Johnson;Documentary;06.10.2017;105;7.3;English
+519;The Fundamentals of Caring;Comedy-drama;24.06.2016;97;7.3;English
+520;The Other One: The Long Strange Trip of Bob Weir;Documentary;22.05.2015;83;7.3;English
+521;American Factory;Documentary;21.08.2019;110;7.4;English
+522;Fire in Paradise;Documentary;01.11.2019;39;7.4;English
+523;Long Shot;Documentary;29.09.2017;40;7.4;English
+524;Miss Americana;Documentary;31.01.2020;85;7.4;English
+525;Period. End of Sentence.;Documentary;12.02.2019;26;7.4;English/Hindi
+526;Shawn Mendes: Live in Concert;Concert Film;25.11.2020;87;7.4;English
+527;Shirkers;Documentary;26.10.2018;97;7.4;English
+528;The Black Godfather;Documentary;07.06.2019;118;7.4;English
+529;The Irishman: In Conversation;Aftershow / Interview;27.11.2019;23;7.4;English
+530;The Speed Cubers;Documentary;29.07.2020;40;7.4;English
+531;They'll Love Me When I'm Dead;Documentary;02.11.2018;98;7.4;English
+532;Tig;Documentary;17.07.2015;80;7.4;English
+533;Barbra: The Music, The Mem'ries, The Magic!;Concert Film;22.11.2017;108;7.5;English
+534;Blackpink: Light Up the Sky;Documentary;14.10.2020;79;7.5;Korean
+535;City of Joy;Documentary;07.09.2018;74;7.5;English
+536;Dick Johnson Is Dead;Documentary;02.10.2020;90;7.5;English
+537;Homecoming: A Film by Beyonce ;Documentary;17.04.2019;137;7.5;English
+538;Invader Zim: Enter the Florpus;Animation / Science Fiction;16.08.2019;71;7.5;English
+539;Joan Didion: The Center Will Not Hold;Documentary;27.10.2017;98;7.5;English
+540;John Mulaney & the Sack Lunch Bunch;Variety show;24.12.2019;70;7.5;English
+541;Reversing Roe;Documentary;13.09.2018;99;7.5;English
+542;The White Helmets;Documentary;16.09.2016;40;7.5;English
+543;Athlete A;Documentary;24.06.2020;104;7.6;English
+544;Ludo;Anthology/Dark comedy;12.11.2020;149;7.6;Hindi
+545;Quincy;Documentary;21.09.2018;124;7.6;English
+546;Rolling Thunder Revue: A bob Dylan Story by Martin Scorsere;Documentary;12.06.2019;144;7.6;English
+547;Tell Me Who I Am;Documentary;18.10.2019;85;7.6;English
+548;The Bleeding Edge;Documentary;27.07.2018;100;7.6;English
+549;The Social Dilemma;Documentary;09.09.2020;94;7.6;English
+550;The Two Popes;Drama;20.12.2019;125;7.6;English
+551;What Happened, Miss Simone?;Documentary;26.06.2015;84;7.6;English
+552;Yeh Ballet;Drama;21.02.2020;117;7.6;Hindi
+553;Anima;Musical / Short;27.06.2019;15;7.7;English
+554;Beasts of No Nation;War drama;16.10.2015;136;7.7;English/Akan
+555;Brene Brown: The Call to Courage;Documentary;19.04.2019;76;7.7;English
+556;Crip Camp: A Disability Revolution;Documentary;25.03.2020;108;7.7;English
+557;Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Cliffton ;Documentary;17.11.2017;94;7.7;English
+558;Justin Timberlake + The Tennessee Kids;Concert Film;12.10.2016;90;7.7;English
+559;Road to Roma;Making-of;11.02.2020;72;7.7;Spanish
+560;Roma;Drama;14.12.2018;135;7.7;Spanish
+561;If Anything Happens I Love You;Animation / Short;20.11.2020;12;7.8;English
+562;The Irishman;Crime drama;27.11.2019;209;7.8;English
+563;The Trial of the Chicago 7;Drama;16.10.2020;130;7.8;English
+564;A Secret Love;Documentary;29.04.2020;82;7.9;English
+565;Icarus;Documentary;04.08.2017;120;7.9;English
+566;Marriage Story;Drama;06.12.2019;136;7.9;English
+567;The Ivory Game;Documentary;04.11.2016;112;7.9;English
+568;Struggle: The Life and Lost Art of Szukaiski;Documentary;21.12.2018;105;8;English
+569;Chasing Coral ;Documentary;14.07.2017;89;8.1;English
+570;My Octopus Teacher;Documentary;07.09.2020;85;8.1;English
+571;Rising Phoenix;Documentary;26.08.2020;106;8.1;English
+572;13th;Documentary;07.10.2016;100;8.2;English
+573;Disclosure: Trans Lives on Screen;Documentary;19.06.2020;107;8.2;English
+574;Klaus;Animation/Christmas/Comedy/Adventure;15.11.2019;97;8.2;English
+575;Seaspiracy;Documentary;24.03.2021;89;8.2;English
+576;The Three Deaths of Marisela Escobedo;Documentary;14.10.2020;109;8.2;Spanish
+577;Cuba and the Cameraman ;Documentary;24.11.2017;114;8.3;English
+578;Dancing with the Birds;Documentary;23.10.2019;51;8.3;English
+579;Ben Platt: Live from Radio City Music Hall;Concert Film;20.05.2020;85;8.4;English
+580;Taylor Swift: Reputation Stadium Tour;Concert Film;31.12.2018;125;8.4;English
+581;Winter on Fire: Ukraine's Fight for Freedom;Documentary;09.10.2015;91;8.4;English/Ukranian/Russian
+582;Springsteen on Broadway;One-man show;16.12.2018;153;8.5;English
+583;Emicida: AmarElo - It's All For Yesterday;Documentary;08.12.2020;89;8.6;Portuguese
+584;David Attenborough: A Life on Our Planet;Documentary;04.10.2020;83;9;English

@@ -1,0 +1,14 @@
+<ng-container *ngIf="isReady">
+    <app-chart [legendOptions]="globalRevenueLegend" [xName]="'Daty'" [yName]="'Globalny przychód'"
+        [xAxis]="globalRevenueXAxis" [yAxis]="globalRevenueYAxis" [series]="globalRevenueSeries"
+        [tooltip]="globalRevenueTooltip" [date]="globalRevenues"></app-chart>
+
+
+    <ng-container *ngFor="let quartersRevenueOption of quartersRevenueOptions">
+        <app-chart [legendOptions]="quartersRevenueOption.legend" [xName]="'kwartały'" [yName]="'Przychód kwartalny'"
+            [xAxis]="quartersRevenueOption.xAxis" [yAxis]="quartersRevenueOption.yAxis"
+            [series]="quartersRevenueOption.series" [tooltip]="quartersRevenueOption.tooltip"
+            [dataSet]="quartersRevenueOption.dataset" [title]="quartersRevenueOption.title"></app-chart>
+    </ng-container>
+
+</ng-container>
